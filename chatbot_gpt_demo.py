@@ -6,7 +6,7 @@ import utils
 
 import panel as pn  # GUI
 pn.extension()
-openai.api_key = ""
+openai.api_key = "input your key here"
 def get_completion_from_messages(messages, model="gpt-3.5-turbo", temperature=0, max_tokens=500):
     response = openai.ChatCompletion.create(
         model=model,

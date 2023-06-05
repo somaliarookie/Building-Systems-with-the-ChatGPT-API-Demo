@@ -1,1 +1,1 @@
-Demo of Building Systems with the ChatGPT API" on DeepLearning.AI site.  , Build your own personalized chatbot using ChatGPT that can answer questions specific to your business.
+Demo of [Building Systems with the ChatGPT API]([http://www.google.com/](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/lesson_1))" on DeepLearning.AI site.  , Build your own personalized chatbot using ChatGPT that can answer questions specific to your business.

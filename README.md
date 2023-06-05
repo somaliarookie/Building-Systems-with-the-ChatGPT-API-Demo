@@ -10,7 +10,7 @@ Build your own personalized chatbot using ChatGPT that can answer questions spec
 
 #### Getting started
 
-Just input your key ,  `` api_key ``
+Just input your key ,  `` openai.api_key = "input your key here" ``
 
 
 

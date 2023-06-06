@@ -6,7 +6,19 @@ Build your own personalized chatbot using ChatGPT that can answer questions spec
 [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction), written in
 [Python](https://www.python.org/).
 
+> Use quote blocks to emulate reply text.
+> This line is part of the same quote.
 
+This line is not formatted and does not belong to the quote block.
+
+> This block spans multiple paragraphs.
+>
+> The second paragraph is grouped with the previous paragraph in the same quote block.
+> Character formatting is _also_ supported inside the **quote block**.
+
+> Quote blocks can also be nested.
+>> When you start a new line with additional > characters,
+>>> it simulates a threaded conversation.
 
 #### Getting started
 
